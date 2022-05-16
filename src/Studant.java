@@ -42,9 +42,9 @@ public class Studant{
         s1.birth=1030;
 
         Studant s2=new Studant();
-        s2.name="이선영";
-        s2.number="5678";
-        s2.birth=1010;
+        s2.name="주동호";
+        s2.number="1234";
+        s2.birth=1030;
 
         if (s1.equals(s2)){
             System.out.println("S1==S2");
