@@ -4,7 +4,7 @@ public class InterFace2 {
     A b=a;
     b.Programming("java");
     B c=a;
-    c.teach("자바");
+    c.teach("C++");
     C d=a;
     d.massage();
     }
