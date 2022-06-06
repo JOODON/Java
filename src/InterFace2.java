@@ -1,6 +1,6 @@
 public class InterFace2 {
     public static void main(String[] args) {
-    D a=new D("주동호");
+    D a=new D("올라프");
     A b=a;
     b.Programming("java");
     B c=a;
